@@ -1,0 +1,214 @@
+html {
+    margin: 0%;
+}
+
+.navbar {
+    background-color: rgb(39, 39, 39) !important; 
+    position: fixed;
+    top: 0;
+    width: 100%;
+    overflow: hidden;
+    z-index: 100;
+}
+
+#navbar-example2{
+}
+
+
+.body { 
+        margin-left: 5% !important;
+        margin-right: 5% !important;
+        margin-top: 5% !important;
+        font-family: 'Varela Round', sans-serif !important;
+        
+
+} 
+
+.nav-link01 {
+    color: rgb(234, 236, 243) !important;
+    text-shadow: 4px 2px 22px rgba(188, 191, 198, 1);
+    font-size: 2rem !important;
+    margin-bottom: 35px;
+    font-family: 'Varela Round', sans-serif !important;
+    
+}
+
+.nav-link:hover {
+    color: rgb(182, 182, 182) !important;
+    font-family: 'Varela Round', sans-serif !important;
+}
+
+
+
+#flag {
+    margin-right: 4%;
+}
+
+.pismo {
+    margin-top: 5%;
+    margin-right: 5%;
+    font-family: 'Varela Round', sans-serif !important;
+}
+
+.d-block  {
+    height: 50vh;
+    object-fit: cover ;
+} 
+
+.carousel-caption {
+    margin-bottom: 7%;
+    font-size: 2.5rem;
+    
+}
+
+   
+
+li {
+    list-style: none !important;
+}
+
+audio {
+    width: 100% !important;
+}
+
+.vlajky {
+    width: 20%;
+    height: 20vh;
+    float: right;
+}
+
+.vlajky img{
+    width: 100%;
+}
+
+.comment-flag {
+    float: right;
+    font-size: 30px;
+}
+
+.carousel-inner {
+    margin-top: -35px;
+}
+
+.text-left {
+    float: left;
+    width: 30%;
+}
+
+.card {
+    box-shadow:  5px 3px 14px rgba(182, 199, 230, 0.7);
+    width: 100%;
+    border:1px rgb(179, 179, 179) solid;
+    margin-bottom: 5%;
+    margin-right: 3em;
+    margin-left: 2em;
+   
+
+    
+    
+}
+
+.vlajka {
+    width: 70%;
+    margin-top: 3%;
+    margin-left: 15%;
+    border: 1px rgb(167, 167, 167) solid;
+}
+
+.znak {
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 3%;
+}
+
+h4 {
+    padding-top: 80px;
+    padding-bottom: 30px;
+    text-shadow: 5px 3px 14px rgba(97, 108, 128, 0.7);
+    font-size: 2.5rem;
+}
+
+.mountains {
+   
+}
+.card1 {
+ margin-right: 14%;
+}
+
+#fat {
+padding-top: 16%;   
+}
+
+hr {
+    border-top: 1px solid rgba(114, 114, 114, 0.48);
+    
+}
+
+.btn {
+    float: right;
+    margin-bottom: -1000px !important;
+    
+}
+
+.btn a {
+    color: rgba(236, 236, 236, 0.781) !important;
+    
+}
+header {
+    margin-top: 60px;
+}
+
+.card-img-top {
+    object-fit: cover;
+    object-position: top;
+}
+
+.img1 {
+    height: 20rem;
+}
+
+.images {
+    width: 50%;
+    margin-left: 25%;
+    margin-bottom: 2%;
+}
+
+ul li {
+    line-height: 35px;
+}
+
+.cardcity {
+    margin: 0px 4% 0px 0px !important;
+}
+
+#end {
+    width: 78%;
+    margin-left: 11%;
+    margin-right: 11%;
+    margin-top: 5%;
+    font-size: 20px;
+    border-top: 1px rgba(114, 114, 114, 0.48) solid;
+    
+
+}
+
+.end-text {
+    color: rgba(70, 70, 70, 0.801);
+    font-family: 'Varela Round', sans-serif !important;
+    margin-top: 15px;
+    margin-left: 15px;
+    font-size: 13px !important;
+}
+
+.end-text a {
+    color:  rgba(70, 70, 70, 0.801) !important;
+    
+}
+.linky {
+    float: right;
+}
+
+
+.navbar-nav {
+    text-align: right;
+}
